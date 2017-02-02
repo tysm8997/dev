@@ -43,9 +43,9 @@
 body {
 	background: url('../img/bash.jpg');
 	font-family: 'Open Sans', sans-serif;
-	font-size: 14px;
+	font-size: 20px;
 	font-family: 'Oswald', sans-serif;
-	font-size: 16px;
+	font-size: 30px;
 }
 
 header, 
@@ -75,6 +75,33 @@ footer {
 	background: url('../img/github.jpg');
 }
 
+#nav {
+	width: auto;
+	float: left;
+	margin: 0 0 3em 0;
+	padding: auto;
+	list-style: none;
+	background: rgba(255,255,255,0.75);
+	border: solid 2px rgba(0,0,0,0.8);
+	padding: 10px 15px;
+	margin-bottom: 20px;
+	-webkit-border-radius: 20px;
+    border-radius: 20px;
+    -webkit-box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.8);
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.8);
+}
+#nav li {
+	float: left; }
+#nav li a {
+	display: block;
+	padding: 8px 15px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #000;
+	border-right: 1px solid #ccc; }
+#nav li a:hover {
+	color: #c00;
+	background-color: #fff; }
 
 
 
