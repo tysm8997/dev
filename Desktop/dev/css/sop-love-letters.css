@@ -41,7 +41,7 @@
 }
 
 body {
-	background: url('../img/bg-design-garden.jpg');
+	background: url('../img/bash.jpg');
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	font-family: 'Oswald', sans-serif;
@@ -61,20 +61,10 @@ footer {
     box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.8);
 }
 
-.mainheader {
-    background: url('../img/computer-lib-title.png') center no-repeat rgba(255,255,255,0.75);
-    height: 58px;
-}
 
-.dissapear {
-	position: absolute;
-	top: -9999em;
-	left: -9999em;
-}
 
-.header {
-    background: url('../img/dream-machines.png') center no-repeat rgba(255,255,255,0.75);
-    height: 58px;
+.bash {
+	background: url('../img/bash.jpg');
 }
 
 
