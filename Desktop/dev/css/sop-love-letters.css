@@ -37,7 +37,7 @@
 
 .container {
 	width: 960px;
-	margin: 0 auto;
+	margin: 0 auto; 
 }
 
 body {
@@ -67,7 +67,13 @@ footer {
 	background: url('../img/bash.jpg');
 }
 
+.git {
+	background: url('../img/git.jpg');
+}
 
+.github {
+	background: url('../img/github.jpg');
+}
 
 
 
